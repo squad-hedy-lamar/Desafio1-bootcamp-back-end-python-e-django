@@ -1,6 +1,5 @@
 # Bootcamp-Back-End-Python-Django 🐍
-# Desafio 1 Orientações para realização e entrega do desafio
-
+# Desafio 1 - Conceitos Básicos de Python
 <p align="center">
   <a href="https://womakerscode.org/" target="_blank">WoMakersCode</a>
 </p>
